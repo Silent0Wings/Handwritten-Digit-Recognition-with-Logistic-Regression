@@ -6,6 +6,8 @@ This project does handwritten digit classification using logistic regression. It
 - `load_digits` from scikit-learn (8x8 grayscale digits)
 - `MNIST` from Kaggle (28x28 grayscale digits)
 
+  A full project report is available here: [ Read the full report (PDF)](./Handwritten-Digit-Recognition-with-Logistic-Regression.pdf)
+
 The images are normalized and exported to csv files. Then they are re-converted into images and saved in folders by number (0 to 9) for easy viewing and understanding.
 
 ---
