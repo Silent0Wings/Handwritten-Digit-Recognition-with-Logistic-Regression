@@ -1,0 +1,11 @@
+run this for max accuracy
+python.exe .\tuned_mnist_logistic_regression_parameter.py 0.2 9.0 128 44 lbfgs 1.0
+0.9916666666666667
+for gui
+
+python.exe .\plot_tuned_mnist_logistic_regression_parameter.py 0.2 9.0 128 44 lbfgs 1.0
+
+
+to run the 60k mnist data set
+
+ python.exe c:\Users\ypers\OneDrive\Documents\COMP472\Project1\tuned\80full_mnist_logistic_regression.py 0.2 8.0 1000 44 lbfgs 1.0
